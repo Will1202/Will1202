@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Will1202/Will1202/main/assets/technical/header-mobile.svg" />
-  <img src="https://raw.githubusercontent.com/Will1202/Will1202/main/assets/technical/header.svg" alt="William Zhiyuan Qi (齐智源), undergraduate researcher at Duke Kunshan University." width="100%" />
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Will1202/Will1202/main/assets/technical/header-mobile.svg?v=20261003-dual" />
+  <img src="https://raw.githubusercontent.com/Will1202/Will1202/main/assets/technical/header.svg?v=20261003-dual" alt="William Zhiyuan Qi (齐智源), a dual-degree undergraduate at Duke University and Duke Kunshan University." width="100%" />
 </picture>
 
 <p>
@@ -11,14 +11,14 @@
   <a href="mailto:zq58@duke.edu">Email</a>
 </p>
 
-I study **Applied Mathematics and Computation** at Duke Kunshan University, with a track in Computer Science. My research focuses on **multimodal perception** and **typhoon trajectory prediction**.
+I am a **dual-degree undergraduate at Duke University and Duke Kunshan University**, studying **Applied Mathematics and Computation** with a track in Computer Science. My research focuses on **multimodal perception** and **typhoon trajectory prediction**.
 
 I'm interested in how models combine different sources of information, how attention can be made more efficient, and how forecasts represent uncertainty. Below are some of the research code and projects I work on.
 
 <details>
 <summary>中文简介</summary>
 
-我是齐智源（William），昆山杜克大学本科生，学习应用数学与计算科学（计算机科学方向）。研究主要围绕多模态感知和台风轨迹预测，关注信息融合、注意力的计算效率，以及预测中的不确定性。
+我是齐智源（William），就读于杜克大学（Duke University）与昆山杜克大学（Duke Kunshan University）的双学位本科项目，学习应用数学与计算科学（计算机科学方向）。研究主要围绕多模态感知和台风轨迹预测，关注信息融合、注意力的计算效率，以及预测中的不确定性。
 
 这里也收录了我参与的环境科普项目。更多研究与论文信息见[学术主页](https://william-qi-research.zhiyuanqi777.chatgpt.site)，欢迎通过 [zq58@duke.edu](mailto:zq58@duke.edu) 联系。
 
